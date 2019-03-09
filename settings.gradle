@@ -1,2 +1,2 @@
-rootProject.name = 'java-intro'
+rootProject.name = '1-java-intro'
 include 'task01'
